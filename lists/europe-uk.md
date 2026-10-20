@@ -1,11 +1,16 @@
-# 57 europe and uk roles
+# 49 europe and uk roles
 
-**57 roles at 27 companies.** Checked 16 Oct 2026. Every role in this repo based in the UK, the EU, Switzerland or Norway.
+**49 roles at 24 companies.** Checked 20 Oct 2026. Every role in this repo based in the UK, the EU, Switzerland or Norway.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
+| **Johnson & Johnson** | [Director, Pharmacovigilance Alliance Contracting and Management](https://trylitos.com/job/1db4d128-afe5-4097-a396-8f5dc8133ac3?utm_source=github&utm_campaign=pv-europe-uk) | Allschwil, Basel-Country, Switzerland |  | Oct 20 |  |
+| **Johnson & Johnson** | [Director, Pharmacovigilance Alliance Contracting and Management](https://trylitos.com/job/b6bd7d5a-6f35-4aff-9922-d03f3d67cfca?utm_source=github&utm_campaign=pv-europe-uk) | Beerse, Antwerp, Belgium; Solna, Stockholm Co |  | Oct 20 |  |
+| **Valneva** | [PV Quality Assurance Manager (m/f/d)](https://trylitos.com/job/3e06fcc8-ee6d-4539-9284-25dba696b394?utm_source=github&utm_campaign=pv-europe-uk) | Vienna, Vienna, Austria |  | Oct 19 |  |
+| **Excelya** | [PV Innovation & Transformation Consultant](https://trylitos.com/job/a24127d4-f442-4807-958b-edaa183c0a9d?utm_source=github&utm_campaign=pv-europe-uk) | Bruxelles, Brussels, Belgium |  | Oct 19 |  |
+| **Biomapas** | [Pharmacovigilance Specialist (Medical/Clinical Safety)](https://trylitos.com/job/25892bfd-1c55-4e64-a9c5-6f8adfd9899f?utm_source=github&utm_campaign=pv-europe-uk) | Bulgaria / Croatia / Poland / Romania / Greec |  | Oct 16 |  |
 | **Envista** | [Complaint Handling & Vigilance Specialist](https://trylitos.com/job/257d77fc-395e-40b8-9c40-139dbb83623f?utm_source=github&utm_campaign=pv-europe-uk) | NLD - Venlo - Nobel Biocare Distribution Cent |  | Oct 14 |  |
 | **Johnson & Johnson** | [LATAM Senior Safety Operations Manager](https://trylitos.com/job/4c973814-c44e-4bca-b7bd-85c14e525356?utm_source=github&utm_campaign=pv-europe-uk) | São Paulo, Brazil; Buenos Aires, Argentina; M |  | Oct 14 |  |
 | **Elanco** | [Local Pharmacovigilance Manager & Regulatory Manager](https://trylitos.com/job/dab8ed36-6136-4d5b-907b-469e48074e43?utm_source=github&utm_campaign=pv-europe-uk) | FR - Paris |  | Oct 14 |  |
@@ -15,7 +20,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Ipsen** | [Stagiaire Pharmacovigilance et Infomed](https://trylitos.com/job/05a520c4-e686-497f-b4ab-90ce764f5d86?utm_source=github&utm_campaign=pv-europe-uk) | Paris |  | Oct 12 |  |
 | **Merck & Co. (MSD)** | [Principal Scientist, Drug Safety](https://trylitos.com/job/6ec06aca-ab33-4673-8353-442d61f8bde1?utm_source=github&utm_campaign=pv-europe-uk) | USA - Pennsylvania - North Wales (Upper Gwyne |  | Oct 9 |  |
 | **IQVIA** | [Pharmacovigilance Regulatory Reporting (Trilingual)](https://trylitos.com/job/58e38a0a-523e-4823-b280-321158ee197f?utm_source=github&utm_campaign=pv-europe-uk) | São Paulo, Brazil; Buenos Aires, Argentina |  | Oct 9 |  |
-| **IQVIA** | [Medical Information/ PV Specialist with German and English.](https://trylitos.com/job/b00b11c9-819d-4414-9784-85a9ac3317e8?utm_source=github&utm_campaign=pv-europe-uk) | Madrid, Spain |  | Oct 8 |  |
 | **AstraZeneca** | [Senior Director -Project Toxicologist - Clinical Pharmacology and Safety Sciences](https://trylitos.com/job/73e8e404-fd81-4055-a229-39ad3dbfee64?utm_source=github&utm_campaign=pv-europe-uk) | Sweden - Gothenburg |  | Oct 7 |  |
 | **Sandoz Group of Companies** | [Patient Safety Specialist (d/f/m)](https://trylitos.com/job/2df96f64-89a8-4062-a2cc-7ba270a7a040?utm_source=github&utm_campaign=pv-europe-uk) | Holzkirchen (Non-Sales Force) (Hexal AG) (San |  | Oct 7 |  |
 | **ICON plc** | [Pharmacovigilance Associate](https://trylitos.com/job/eb2239e0-e092-4330-b117-8434b698fcc0?utm_source=github&utm_campaign=pv-europe-uk) | Philippines, Manila; Poland, Warsaw; Bulgaria |  | Oct 7 |  |
@@ -29,32 +33,20 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Insulet** | [Global Product Monitoring Vigilance Report Writer](https://trylitos.com/job/58cc9100-147e-4b07-bc19-08c134d39494?utm_source=github&utm_campaign=pv-europe-uk) | Paris, Ile de France |  | Oct 1 |  |
 | **Ipsen** | [Drug Safety and Complaint Manager (m/w/d)](https://trylitos.com/job/563de8a9-d7e0-4b6a-b692-e3f0d75d8461?utm_source=github&utm_campaign=pv-europe-uk) | Munich |  | Oct 1 |  |
 | **Biogen** | [PV Scientist](https://trylitos.com/job/ab1c35f2-444d-4821-9af5-f27ae3e0c96e?utm_source=github&utm_campaign=pv-europe-uk) | Maidenhead, United Kingdom |  | Sep 29 | Employer holds a UK sponsor licence (Home Office register) |
-| **IQVIA** | [Safety Aggreg Report Mng /Senior PV Scientist](https://trylitos.com/job/b445378e-bcc1-489e-a50f-3d12d8953b5f?utm_source=github&utm_campaign=pv-europe-uk) | Belgrade, Serbia; Budapest, Hungary; Bloemfon |  | Sep 28 |  |
 | **Regeneron** | [Associate Director, Global Patient Safety Standards & Training](https://trylitos.com/job/a90d56f2-b4fd-4ebd-807d-1aca8e5ebe11?utm_source=github&utm_campaign=pv-europe-uk) | Dublin; Uxbridge1; Warren; Cambridge; TARRYTO |  | Sep 28 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
-| **AstraZeneca** | [Senior Reproductive Toxicologist - Clinical Pharmacology and Safety Sciences (CPSS)](https://trylitos.com/job/3c78afb8-bd4a-474a-a559-8018d51c5382?utm_source=github&utm_campaign=pv-europe-uk) | Sweden - Gothenburg |  | Sep 28 |  |
 | **ProPharma Group** | [Safety Specialist, Pharmacovigilance Case Processing](https://trylitos.com/job/d8f6b1ff-5271-4f43-b022-69833b11f39c?utm_source=github&utm_campaign=pv-europe-uk) | Sweden |  | Sep 28 |  |
 | **Zentiva** | [Regulatory Affairs & Pharmacovigilance Specialist](https://trylitos.com/job/c9741665-a0f7-4b29-88c0-a70e244ebfb8?utm_source=github&utm_campaign=pv-europe-uk) | Croatia / Zagreb |  | Sep 28 |  |
 | **Zentiva** | [Regulatory Affairs and Pharmacovigilance Specialist](https://trylitos.com/job/58174db6-7549-4d2e-a55e-09e86c4966d1?utm_source=github&utm_campaign=pv-europe-uk) | Croatia / Zagreb |  | Sep 28 |  |
 | **GSK** | [Associate Medical Director, Safety Evaluation and Risk Management (SERM)](https://trylitos.com/job/7420a974-bdd1-4a4d-a025-24fc02a36a30?utm_source=github&utm_campaign=pv-europe-uk) | Durham 300 Morris Street; Greater Poland; UK |  | Sep 24 |  |
-| **Amgen** | [Director Global Safety - Global Periodic Aggregate Safety Reports Director](https://trylitos.com/job/d101b430-c7f5-4198-b359-a580bf31706a?utm_source=github&utm_campaign=pv-europe-uk) | United Kingdom - Cambridge; United Kingdom - |  | Sep 21 | Employer holds a UK sponsor licence (Home Office register) |
 | **Regeneron** | [Director, Safety Scientist Lead - Rare Disease](https://trylitos.com/job/c54a7a0a-5488-4c83-8a0f-98f4fe090a00?utm_source=github&utm_campaign=pv-europe-uk) | Dublin; TARRYTOWN; Warren; Uxbridge1 |  | Sep 18 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Regeneron** | [Director, Safety Scientist Lead - General Medicine](https://trylitos.com/job/fc664922-00b7-4435-b47a-ad582aa7b75b?utm_source=github&utm_campaign=pv-europe-uk) | Dublin; TARRYTOWN; Warren; Uxbridge1 |  | Sep 18 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
-| **Syneos Health** | [Manager, Safety & PV (Data Management oversight)](https://trylitos.com/job/4416aca4-d801-492a-a791-2e887264fb40?utm_source=github&utm_campaign=pv-europe-uk) | BGR-Sofia-Hybrid |  | Sep 16 |  |
-| **Ferring Pharmaceuticals** | [Responsable Qualité / Vigilances](https://trylitos.com/job/28c77b0e-1daa-4580-afa4-f1430cc76b37?utm_source=github&utm_campaign=pv-europe-uk) | Gentilly, France |  | Sep 15 |  |
 | **Biogen** | [Senior PV Scientist](https://trylitos.com/job/3c774239-6466-46da-9dd0-5e5fc8a42a00?utm_source=github&utm_campaign=pv-europe-uk) | Maidenhead, United Kingdom |  | Sep 14 | Employer holds a UK sponsor licence (Home Office register) |
 | **Regeneron** | [Director, Global Patient Safety Sciences Delivery, Oncology](https://trylitos.com/job/1439caa2-5af6-4413-ad67-1ef1f9f4986d?utm_source=github&utm_campaign=pv-europe-uk) | Dublin |  | Sep 11 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
-| **ICON plc** | [Pharmacovigilance Reporting Associate (Intelligence)](https://trylitos.com/job/6626b803-4963-458a-9b8f-9a9e54a61023?utm_source=github&utm_campaign=pv-europe-uk) | Mexico, Mexico City; Bulgaria, Sofia |  | Sep 10 |  |
-| **Amgen** | [Senior Associate Global Safety (Local Safety Switzerland)](https://trylitos.com/job/5e34b40e-87c4-496f-98da-58696bd509c0?utm_source=github&utm_campaign=pv-europe-uk) | Switzerland - Rotkreuz |  | Sep 8 |  |
 | **ProPharma Group** | [Senior Pharmacovigilance Consultant, Alliance Management](https://trylitos.com/job/a7fd6452-180a-4dda-be4c-156712ff88c7?utm_source=github&utm_campaign=pv-europe-uk) | Leiden; Sweden; Stockholm; Ireland; Bulgaria |  | Sep 7 |  |
-| **ICON plc** | [Supervisor, Pharmacovigilance (Safety reporting)](https://trylitos.com/job/f6999010-ff5a-449c-957c-df5b12f4dea4?utm_source=github&utm_campaign=pv-europe-uk) | Bulgaria, Sofia; Poland, Warsaw |  | Aug 19 |  |
 | **Ipsen** | [Global Patient Safety Senior Scientist Rare Diseases](https://trylitos.com/job/bc55da32-e267-46c9-9605-c700ac3d3ba9?utm_source=github&utm_campaign=pv-europe-uk) | Paris; London (UK) |  | Aug 4 |  |
-| **Ipsen** | [Global Patient Safety Asset Lead, Rare Diseases](https://trylitos.com/job/b48e80e8-ddee-46bd-8b75-de1b0ff9f5ed?utm_source=github&utm_campaign=pv-europe-uk) | Paris; London (UK) |  | Aug 4 |  |
 | **Ipsen** | [Global Patient Safety Transformation Project Manager](https://trylitos.com/job/dbd30905-7a1c-438e-bd4c-2582fb898424?utm_source=github&utm_campaign=pv-europe-uk) | Paris |  | Jul 30 |  |
-| **McKesson** | [Drug Safety and Post Marketing Surveillance Manager](https://trylitos.com/job/cd9288ee-f314-4293-b575-5e0b360668b2?utm_source=github&utm_campaign=pv-europe-uk) | Cork; IRL-Work at Home |  | Jul 29 |  |
 | **Galderma** | [Global Pharmacovigilance Risk Minimization Physician - Therapeutic Dermatology](https://trylitos.com/job/449ed9af-c307-4ec3-b6d1-318023ec5ce6?utm_source=github&utm_campaign=pv-europe-uk) | Barcelona |  | Jul 28 |  |
 | **ICON plc** | [Senior Drug Safety Associate](https://trylitos.com/job/fe0543c7-89a9-496a-8ff9-5727b9088d30?utm_source=github&utm_campaign=pv-europe-uk) | Bulgaria, Sofia |  | Jun 25 |  |
-| **Syneos Health** | [Safety & PV Specialist I - (ICSR Processing + MedDRA Coding) - HUN Hybrid](https://trylitos.com/job/fb7fc2ab-545f-4e7e-bd8c-c142448d4dd7?utm_source=github&utm_campaign=pv-europe-uk) | HUN-Budapest-Hybrid |  | Jun 22 |  |
-| **Syneos Health** | [Safety & PV Specialist I (Business Analyst) - HUN Based](https://trylitos.com/job/4191f81f-6726-4b55-a11d-6a214755d470?utm_source=github&utm_campaign=pv-europe-uk) | HUN-Budapest-Hybrid |  | Apr 20 |  |
 | **Excelya** | [Global Case Processing Specialist](https://trylitos.com/job/07a46697-c2a3-4d9a-a5db-17d5bb73f585?utm_source=github&utm_campaign=pv-europe-uk) | Boulogne-Billancourt, Île-de-France, France |  | Oct 13 |  |
 | **Ascendis Pharma** | [Associate Project Director, Global Regulatory Affairs & Patient Safety](https://trylitos.com/job/614be533-5e5d-489f-a27e-6307ca2106ab?utm_source=github&utm_campaign=pv-europe-uk) | Hellerup, Region of Southern Denmark, Denmark |  | Oct 1 |  |
 | **Biomapas** | [Pharmacovigilance Specialist Romania](https://trylitos.com/job/854e0bd1-172e-4317-8a5e-a2d3b1135c3d?utm_source=github&utm_campaign=pv-europe-uk) | Romania |  | Sep 22 |  |
