@@ -1,8 +1,8 @@
-# Drug Safety and Pharmacovigilance Jobs: US, UK and Europe
+# Drug Safety and Pharmacovigilance Jobs: US, UK, Europe and India
 
-**100 open drug safety and pharmacovigilance roles in the US, UK and Europe at 43 employers.** Checked 26 Oct 2026. 37 posted in the last 7 days. 33 at employers with a visa sponsorship record.
+**115 open drug safety and pharmacovigilance roles in the US, UK, Europe and India at 44 employers.** Checked 26 Oct 2026. 38 posted in the last 7 days. 33 at employers with a visa sponsorship record.
 
-Pharmacovigilance (PV) and drug safety roles at pharma, biotech, medtech and CRO employers in the US, the UK and Europe: drug safety associates and case processing, safety scientists, signal detection and risk management, safety physicians, PV operations, quality and compliance, and medical device vigilance. Workplace, food, process and occupational safety roles are left out, and so are VP, head and chief titles.
+Pharmacovigilance (PV) and drug safety roles at pharma, biotech, medtech and CRO employers in the US, the UK, Europe and India: drug safety associates and case processing, safety scientists, signal detection and risk management, safety physicians, PV operations, quality and compliance, and medical device vigilance. Workplace, food, process and occupational safety roles are left out, and so are VP, head and chief titles.
 
 Every role comes straight from the employer's own job board, picked up by [Litos](https://trylitos.com/?utm_source=github&utm_campaign=pv-readme&utm_medium=readme). Nothing is copied from LinkedIn or Indeed. Rebuilt every Monday, so closed roles drop off and new ones come in.
 
@@ -14,6 +14,7 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [PV operations, quality and compliance](lists/pv-operations-quality.md) | 14 | 13 |
 | [Medical device vigilance](lists/device-vigilance.md) | 5 | 3 |
 | [Europe and UK](lists/europe-uk.md) | 59 | 29 |
+| [India](lists/india.md) | 15 | 7 |
 
 Click a role to open it, with the employer's own application link. Spreadsheet versions: [csv/](csv/).
 
@@ -26,6 +27,7 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **Fresenius Medical Care** | [Regulatory Affairs & Pharmacovigilance Specialist](https://trylitos.com/job/4c025a90-d335-408f-bcd3-17e5de533432?utm_source=github&utm_campaign=pv-case-processing-associates) | Willebroek, Belgium; Walferdange, Luxembourg; |  | Oct 22 |  |
 | **Syneos Health** | [Safety & PV Specialist I (Data Management) - Hybrid Sofia](https://trylitos.com/job/482e86d7-b255-46fb-a035-b8eb4826e2cd?utm_source=github&utm_campaign=pv-case-processing-associates) | BGR-Sofia-Hybrid |  | Oct 21 |  |
 | **ProPharma Group** | [Pharmcovigilance Case processing & Quality Product Complaint Specialist](https://trylitos.com/job/68fe6728-131d-4859-b2fe-1d5117099233?utm_source=github&utm_campaign=pv-case-processing-associates) | Stockholm |  | Oct 21 |  |
+| **Syneos Health** | [Senior Pharmacovigilance Operations Specialist - Budget & Proposals](https://trylitos.com/job/af6dc30a-ca8b-441d-aff1-6f56be02da0d?utm_source=github&utm_campaign=pv-india) | IND-Gurugram |  | Oct 21 |  |
 | **Ipsen** | [Trainee Non Clinical Drug Safety - Starting January 2027](https://trylitos.com/job/2909ad3c-1989-4a98-b224-55b4a52d3f19?utm_source=github&utm_campaign=pv-case-processing-associates) | Paris |  | Oct 20 |  |
 | **Baxter** | [Junior Global Pharmacovigilance Data Analyst](https://trylitos.com/job/4198f499-7175-4a6e-9cd9-e9e9098039c3?utm_source=github&utm_campaign=pv-case-processing-associates) | Marsa, Malta |  | Oct 20 |  |
 | **AstraZeneca** | [Local Case Intake Advisor, GBS Patient Safety](https://trylitos.com/job/5579d4fd-f759-443f-89e2-60b40d78926a?utm_source=github&utm_campaign=pv-case-processing-associates) | Portugal - Lisboa |  | Oct 19 |  |
@@ -33,10 +35,19 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **Zentiva** | [Regulatory Affairs & Pharmacovigilance Specialist](https://trylitos.com/job/c9741665-a0f7-4b29-88c0-a70e244ebfb8?utm_source=github&utm_campaign=pv-case-processing-associates) | Croatia / Zagreb |  | Oct 16 |  |
 | **Zentiva** | [Regulatory Affairs and Pharmacovigilance Specialist](https://trylitos.com/job/58174db6-7549-4d2e-a55e-09e86c4966d1?utm_source=github&utm_campaign=pv-case-processing-associates) | Croatia / Zagreb |  | Oct 16 |  |
 | **BioCryst Pharmaceuticals** | [Product Safety Associate - Postmarketing (Contract)](https://trylitos.com/job/1dfa4062-e34c-4b8a-ada4-86e69354069f?utm_source=github&utm_campaign=pv-case-processing-associates) | US_North Carolina_Remote |  | Oct 15 | Employer has approved H-1B petitions (USCIS); posting does not say |
+| **Bristol Myers Squibb** | [Senior Manager, Global PV System Excellence & QPPV Support](https://trylitos.com/job/5a9b8805-6d1e-44ef-8de1-4815c25b0a85?utm_source=github&utm_campaign=pv-india) | Hyderabad - TS - IN |  | Oct 15 |  |
+| **Syneos Health** | [Safety & PV Specialist II - Literature Case Processing](https://trylitos.com/job/e41b5553-dab5-4bfd-a8d0-9b1161d4c1bd?utm_source=github&utm_campaign=pv-india) | IND-Gurugram |  | Oct 14 |  |
+| **Syneos Health** | [Safety & PV Specialist I -Japanese Language expert](https://trylitos.com/job/81097950-f98a-4569-ba4b-38661b420fad?utm_source=github&utm_campaign=pv-india) | IND-Gurugram |  | Oct 14 |  |
+| **IQVIA** | [Medical Safety Dir](https://trylitos.com/job/9fcddf88-d2fb-43b8-9100-e96104d4ce02?utm_source=github&utm_campaign=pv-india) | Bangalore, India; Kolkata, West Bengal, India |  | Oct 14 |  |
 | **Exelixis** | [Drug Safety Associate III](https://trylitos.com/job/83b6ef88-f0cc-4c4d-ae55-2dd5ed40e2aa?utm_source=github&utm_campaign=pv-case-processing-associates) | Remote |  | Oct 9 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Sandoz Group of Companies** | [Patient Safety Specialist (d/f/m)](https://trylitos.com/job/2df96f64-89a8-4062-a2cc-7ba270a7a040?utm_source=github&utm_campaign=pv-case-processing-associates) | Holzkirchen (Non-Sales Force) (Hexal AG) (San |  | Oct 7 |  |
+| **Syneos Health** | [Safety & PV Coordinator](https://trylitos.com/job/f327df94-fca9-4a9c-bff8-7f00d5b65284?utm_source=github&utm_campaign=pv-india) | IND-Gurugram |  | Oct 6 |  |
+| **AstraZeneca** | [Director- Patient Safety](https://trylitos.com/job/3973ace9-d89f-433c-b215-b35b1c78aa6d?utm_source=github&utm_campaign=pv-india) | India - Bangalore |  | Oct 1 |  |
 | **Exelixis** | [Drug Safety Associate II](https://trylitos.com/job/413cdf23-77ee-4a45-b5a4-a20b0591ebbe?utm_source=github&utm_campaign=pv-case-processing-associates) | Alameda, CA |  | Sep 30 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **ProPharma Group** | [Safety Specialist, Pharmacovigilance Case Processing](https://trylitos.com/job/d8f6b1ff-5271-4f43-b022-69833b11f39c?utm_source=github&utm_campaign=pv-case-processing-associates) | Sweden |  | Sep 28 |  |
+| **Syneos Health** | [Auditor II, QA (Good Pharmacovigilance Practice exp required)](https://trylitos.com/job/305f3b71-a7b2-416d-9093-53660c2ab5b5?utm_source=github&utm_campaign=pv-india) | IND-Hyderabad-Hybrid; IND-Pune-Hybrid; IND-Gu |  | Sep 26 |  |
+| **Syneos Health** | [Safety & PV Specialist- Future Roles (India)](https://trylitos.com/job/0736a35a-26bf-4751-9fae-efeb946eea45?utm_source=github&utm_campaign=pv-india) | IND-Hyderabad; IND-Gurugram |  | Sep 26 |  |
+| **Enovis** | [Post Market Surveillance & Vigilance Specialist](https://trylitos.com/job/325c397c-b341-4935-897a-498709b6c087?utm_source=github&utm_campaign=pv-india) | Hyderabad, Telangana, India |  | Sep 22 |  |
 | **Baxter** | [PV Risk Management Specialist](https://trylitos.com/job/e868fce3-9080-4ca9-b032-ca555e72d40e?utm_source=github&utm_campaign=pv-case-processing-associates) | Deerfield, Illinois; United States of America |  | Sep 18 |  |
 | **Biomapas** | [Pharmacovigilance Specialist (Medical/Clinical Safety)](https://trylitos.com/job/25892bfd-1c55-4e64-a9c5-6f8adfd9899f?utm_source=github&utm_campaign=pv-case-processing-associates) | Bulgaria / Croatia / Poland / Romania / Greec |  | Oct 16 |  |
 | **Regeneron** | [Manager, Global Patient Safety Scientist](https://trylitos.com/job/a5ed8a5f-a88a-4a7b-a2cc-1631444245f5?utm_source=github&utm_campaign=pv-safety-science-signal) | Warren; Cambridge, MA; TARRYTOWN |  | Oct 23 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
@@ -66,7 +77,11 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **Regeneron** | [Director, Global Patient Safety Sciences - General Medicine](https://trylitos.com/job/81068fdb-7358-4961-9310-f431e5c4e235?utm_source=github&utm_campaign=pv-safety-science-signal) | Cambridge, MA; Warren; TARRYTOWN |  | Sep 21 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Regeneron** | [Director, Safety Scientist Lead - Rare Disease](https://trylitos.com/job/c54a7a0a-5488-4c83-8a0f-98f4fe090a00?utm_source=github&utm_campaign=pv-safety-science-signal) | Dublin; TARRYTOWN; Warren; Uxbridge1 |  | Sep 18 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Biogen** | [Senior PV Scientist](https://trylitos.com/job/3c774239-6466-46da-9dd0-5e5fc8a42a00?utm_source=github&utm_campaign=pv-safety-science-signal) | Maidenhead, United Kingdom |  | Sep 14 | Employer holds a UK sponsor licence (Home Office register) |
+| **Syneos Health** | [Safety & PV Specialist I - Literature Case processing](https://trylitos.com/job/75efd55b-791c-4c85-8c3c-524713507b88?utm_source=github&utm_campaign=pv-india) | IND-Gurugram |  | Sep 14 |  |
+| **Syneos Health** | [Director, Safety & PV (Veeva Safety Implementation & Operations)](https://trylitos.com/job/54300a46-189d-4c30-9a7d-df3f84b43f2a?utm_source=github&utm_campaign=pv-india) | IND-Gurugram |  | Sep 10 |  |
+| **Haleon** | [Sr. Scientist Pharmacovigilance Operations Oversight and Strategy](https://trylitos.com/job/b6353f8c-1f56-46f0-99d8-f6c713d6ff70?utm_source=github&utm_campaign=pv-india) | India - Andra Pradesh - Hyderabad |  | Sep 8 |  |
 | **Neurocrine Biosciences** | [Principal Scientist, Safety](https://trylitos.com/job/5aeabbde-ecdd-44f4-a4fb-ba187ec0d85c?utm_source=github&utm_campaign=pv-safety-science-signal) | US CA San Diego |  | Sep 3 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
+| **Regeneron** | [Associate Director, Triage and Medical Review](https://trylitos.com/job/48992b88-7b42-47dd-aba3-480c94663362?utm_source=github&utm_campaign=pv-india) | Hyderabad |  | Aug 18 |  |
 | **Ipsen** | [Global Patient Safety Senior Scientist Rare Diseases](https://trylitos.com/job/bc55da32-e267-46c9-9605-c700ac3d3ba9?utm_source=github&utm_campaign=pv-safety-science-signal) | Paris; London (UK) |  | Aug 4 |  |
 | **Galderma** | [Global Pharmacovigilance Risk Minimization Physician - Therapeutic Dermatology](https://trylitos.com/job/449ed9af-c307-4ec3-b6d1-318023ec5ce6?utm_source=github&utm_campaign=pv-safety-science-signal) | Barcelona |  | Jul 28 |  |
 | **Oruka Therapeutics** | [Pharmacovigilance Scientist](https://trylitos.com/job/7e957730-3e94-4c55-8b67-3ac88c4b660c?utm_source=github&utm_campaign=pv-safety-science-signal) | Remote; Waltham, Massachusetts, United States | USD 130,000 to 161,000 per year | Sep 25 |  |
@@ -86,6 +101,7 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **Beeline Medicines** | [Global Pharmacovigilance Senior Medical Director](https://trylitos.com/job/fafb8283-4e5a-4d83-b35d-24b217baf165?utm_source=github&utm_campaign=pv-safety-physicians) | United States | USD 320,000 to 400,000 per year | Oct 8 |  |
 | **Oruka Therapeutics** | [Senior Medical Director, Pharmacovigilance and Safety](https://trylitos.com/job/551a6a4f-0cb4-45c3-a4bd-026fd518cce1?utm_source=github&utm_campaign=pv-safety-physicians) | Remote; Waltham, Massachusetts, United States | USD 306,000 to 343,000 per year | Sep 25 |  |
 | **Debiopharm** | [P2620 - Safety Physician Oncology](https://trylitos.com/job/974ed33c-aaec-4637-990a-a45cd627849a?utm_source=github&utm_campaign=pv-safety-physicians) | Lausanne, Vaud, Switzerland |  | Sep 7 |  |
+| **Regeneron** | [Senior Manager Medical Review](https://trylitos.com/job/9d733250-9fcd-4379-a1ae-b9cda706de60?utm_source=github&utm_campaign=pv-india) | Hyderabad |  | Jun 16 |  |
 | **Zevra Therapeutics** | [Medical Director (Pharmacovigilance)](https://trylitos.com/job/08438c37-b384-4200-9b35-f8766bc74ade?utm_source=github&utm_campaign=pv-safety-physicians) | Boston, MA |  | Jun 10 |  |
 | **Biogen** | [Manager, Drug Safety - ICSR Processes](https://trylitos.com/job/2d6af853-47d4-4c04-9092-b7e3ca5e0452?utm_source=github&utm_campaign=pv-pv-operations-quality) | Cambridge, MA |  | Oct 22 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Johnson & Johnson** | [Manager, ICSR Compliance](https://trylitos.com/job/67c8942e-237c-4133-af2f-0cb27ce9d39d?utm_source=github&utm_campaign=pv-pv-operations-quality) | Horsham, Pennsylvania, United States of Ameri |  | Oct 22 |  |
